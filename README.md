@@ -267,15 +267,15 @@ Crear variables en un fichero con el valor de los colores seleccionados, y susti
 
 ## Evaluación
 
-1. Definir la estructura de forma correcta, usando el modelo de cajas, grif y flex, en las 3 página. ** 3 puntos **
-2. Hacer que el diseño sea "resposive" con los tamaños indicados ** 2,5 puntos **
-3. Implementar las transiciones ** 1 punto **
-4. Crear el formulario con un aspecto similar al del resto de la web ** 1 punto **
-5. Establecer los colores con variables ** 1 **
-6. Definir  un contador de comentarios ** 0,25 **
-7. Estructura el css en diferentes ficheros ** 0,25 **
-8. Documentar el código ** 0,25 **
-9.  Usar iconos ** 0,25 **
-10. Aplicar las unidades de medida y funciones de forma correcta ** 0,5 **
+1. Definir la estructura de forma correcta, usando el modelo de cajas, grif y flex, en las 3 página. **3 puntos**
+2. Hacer que el diseño sea "resposive" con los tamaños indicados **2,5 puntos**
+3. Implementar las transiciones **1 punto**
+4. Crear el formulario con un aspecto similar al del resto de la web **1 punto**
+5. Establecer los colores con variables **1 punto**
+6. Definir  un contador de comentarios **0,25 puntos**
+7. Estructura el css en diferentes ficheros **0,25 puntos**
+8. Documentar el código **0,25 puntos**
+9.  Usar iconos **0,25 puntos**
+10. Aplicar las unidades de medida y funciones de forma correcta **0,5 puntos**
 
-Extra: Realizar el formulario con Boostrap ** (0,75 punto) **, insertar un Carosul de imágenes como cabecera ** ( 1,25 puntos) **
+Extra: Realizar el formulario con Boostrap ** (0,75 punto) **, insertar un Carosul de imágenes como cabecera **1,25 puntos**
